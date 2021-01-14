@@ -2,8 +2,10 @@
 This respository contains the corpus we collected and the study data generated from our crowdsourcing study.
 
 ## (1) corpus.xlsx
-contains the list of the 976 infographics manually collected from [information is beautiful award](https://www.informationisbeautifulawards.com/showcase?award=2019&type=awards) and [visual.ly](https://visual.ly/view#feature_type=undefined&type=static&).
+- the list of the 976 infographics manually collected from [information is beautiful award](https://www.informationisbeautifulawards.com/showcase?award=2019&type=awards) and [visual.ly](https://visual.ly/view#feature_type=undefined&type=static&).
+- fields: title, source, author, corpus_id, link
 
 ## (2) study_data.json
-contains the data we collected from a crowdsourcing study, organized into a json structure.
+- contains the data we collected from a crowdsourcing study, organized into a json structure.
+- each infographic has been rated by 10 people
 
