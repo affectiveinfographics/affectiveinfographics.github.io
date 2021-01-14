@@ -1,8 +1,9 @@
-# Smile or Scowl: Looking at Infographic Design Through the Affective Lens
+# Smile or Scowl? Looking at Infographic Design Through the Affective Lens
+This respository contains the corpus we collected and the study data generated from our crowdsourcing study.
 
-- corpus
-contains 976 infographics manually collected from information is beautiful award (www.xxx) and visual.ly (www.xxx).
+## (1) corpus.xlsx
+contains the list of the 976 infographics manually collected from [information is beautiful award](https://www.informationisbeautifulawards.com/showcase?award=2019&type=awards) and [visual.ly](https://visual.ly/view#feature_type=undefined&type=static&).
 
-- study_data.json
-contains the data we collected from a crowdsourcing study.
-json structure: xxx, xxx, xxx
+## (2) study_data.json
+contains the data we collected from a crowdsourcing study, organized into a json structure.
+
