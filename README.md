@@ -13,7 +13,7 @@ This respository contains the corpus we collected and the study data generated f
 - there are 976 objects (i.e., the 976 infographics) in this dict
 - each infographic has 17 attributes, including "title", "link", "primary_affect", "primary_affect_mean", the mean scores of the 12 affects respectively ("happy_mean", "surprised_mean", etc.), and the raw "ratings".
 - the raw "ratings" are objects that contain 10 users' ratings. For each of the 10 users, we privide his/her "gender", "age", and the "scores" he/she set to the 12 affects (5-point Likert scale). If the user set a score above 1 to the infographic (in our study, 1 denotes "not at all aware" of an affect, while 5 denotes "strongly aware" of an affect), we thought he/she had experienced that affect more or less and include the affect as "experienced".
-`
+```
 {"pic1": 
     {"title": "100 Days of Summer - Plants in Finland", 
     "source": "https://www.informationisbeautifulawards.com/showcase/2389-100-days-of-summer-plants-in-finland", 
@@ -62,6 +62,6 @@ This respository contains the corpus we collected and the study data generated f
         }
    }
 }
-`
+```
 You can click the "code" button above to download these materials as a zip :)
 
